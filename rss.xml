@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[stevestomp]]></title>
         <description><![CDATA[stevestomp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stevestomp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 13:30:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 13:51:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stevestomp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined3c010e3c-5824-41be-ba8b-0d67a42c1321/index.html</link>
+            <title><![CDATA[Fastlane]]></title>
+            <description><![CDATA[<article><h1>Fastlane</h1><p>It’s that wonderful moment: you’ve poured days and weeks (maybe even months) into building an amazing app, and it’s finally ready to share with the world. All you have to do is submit it to the App Store, and how hard could that be, right?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/057fc6fe-5267-4fcc-a45b-b17f04a86ec8.png"></article>]]></description>
+            <link>https://thegrid.ai/stevestomp/3c010e3c-5824-41be-ba8b-0d67a42c1321/index.html</link>
             <guid isPermaLink="false">3c010e3c-5824-41be-ba8b-0d67a42c1321</guid>
-            <pubDate>Mon, 22 Feb 2016 13:30:10 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 13:50:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
